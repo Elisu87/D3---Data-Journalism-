@@ -2,7 +2,7 @@
 
 ### Core Assignment: D3 Dabbler 
 
-Run visualization by clicking link http://0.0.0.0:8000/
+Run visualization by clicking link http://127.0.0.1:5500/index.html
 
 
 Created a scatter plot between two of the data variables such as Healthcare.
