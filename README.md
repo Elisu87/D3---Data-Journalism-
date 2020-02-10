@@ -4,7 +4,7 @@
 
 Run visualization by clicking link http://127.0.0.1:5500/index.html
 
-![image](https://user-images.githubusercontent.com/54041709/74114364-4e940d00-4b6f-11ea-936e-475e270c6a70.png)
+https://raw.githubusercontent.com/wiki/[Elisu87]/[D3---Data-Journalism-]/[scatterplot.png]
 
 
 Created a scatter plot between two of the data variables such as Healthcare.
