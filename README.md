@@ -4,6 +4,8 @@
 
 Run visualization by clicking link http://127.0.0.1:5500/index.html
 
+![Screen Shot 2020-02-09 at 7 06 06 PM](https://user-images.githubusercontent.com/54041709/74114364-4e940d00-4b6f-11ea-936e-475e270c6a70.png)
+
 
 Created a scatter plot between two of the data variables such as Healthcare.
 Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. Code for this graphic is in the app.js file of the homework directory which  pulled the data from data.csv by using the d3.csv function. The scatter plot ultimately appears like the image below.
