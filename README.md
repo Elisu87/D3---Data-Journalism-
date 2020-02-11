@@ -2,7 +2,7 @@
 
 ### Core Assignment: D3 Dabbler 
 
-Run visualization by clicking link http://127.0.0.1:5500/index.html
+Run visualization by clicking link https://elisu87.github.io/D3---Data-Journalism-/
 
 
 Created a scatter plot between two of the data variables such as Healthcare.
