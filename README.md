@@ -22,7 +22,7 @@ The data set included with this assignment is based on 2014 ACS 1-year estimates
 
 - Included are the state abbreviations in the circles.
 
-
 - Created and situated r axes and labels to the left and bottom of the chart.
 
+![](Images/screenshot.png)
 
